@@ -67,14 +67,4 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=UdayAhire21&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <!-- Note: You will need to set up the corresponding GitHub Actions to generate the Trophy and Pacman SVGs on your repo for the images below to render successfully -->
-  <img src="https://raw.githubusercontent.com/UdayAhire21/UdayAhire21/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UdayAhire21/UdayAhire21/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UdayAhire21/UdayAhire21/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/UdayAhire21/UdayAhire21/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
