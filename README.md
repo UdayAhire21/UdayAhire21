@@ -1,62 +1,52 @@
-# 👨‍💻 Hi there, I'm Uday Sandeep Ahire!
-### Software Engineer | Full-Stack Web Developer
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-I am a Software Engineer graduate with hands-on experience in full-stack web development, passionate about solving real-world problems and contributing effectively in Agile software development teams. I enjoy learning new technologies and building scalable applications with clean coding practices.
+###
 
-### 🚀 About Me
-* 🎓 I recently completed my **B.E. in Information Technology** from Sinhgad Institute of Technology, Lonavala (2021-2025).
-* 💻 I have a strong foundation in Object-Oriented Programming (OOP), Data Structures, Database Management, and the Software Development Life Cycle (SDLC).
-* ⚙️ My technical expertise lies in building dynamic applications using Java, SQL, React, and Hibernate.
-* 🏑 Outside of coding, I was selected for the District Level Hockey Championship and actively served as Secretary at the Spark Committee college club.
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
----
+###
 
-### 🛠️ Tech Stack & Skills
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-**Languages & Web Development**
-* **Programming:** Java, Python, C, JavaScript
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Angular
+###
 
-**Backend & Databases**
-* **Backend Tools:** Core Java, JDBC, Hibernate, REST APIs
-* **Databases:** SQL, Oracle Database, MySQL, MongoDB
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=undefined&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/undefined/undefined/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-**Tools, Methodologies & Concepts**
-* **Version Control & IDEs:** Git, GitHub, VS Code, Eclipse
-* **Core Concepts:** Algorithms, Object-Oriented Programming, SDLC, Agile, Scrum, Debugging, Clean Code
+###
 
----
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/undefined/undefined/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/undefined/undefined/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/undefined/undefined/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-### 📁 Featured Projects
-
-#### 📖 STORY-SPHERE (May 2025)
-* **Tech Stack:** React, Core Java, Hibernate, Oracle Database, HTML, CSS, JavaScript
-* **Description:** Developed a full-stack web application that allows users to read novels, post comments, and create their own stories.
-* **Impact:** Provided an engaging platform for readers and writers with an interactive React frontend, while ensuring smooth and secure data handling for large volumes of content using Core Java, Hibernate, and an Oracle Database.
-
-#### 🌿 AI-ML Driven Solutions for Pest Detection in Precision Agriculture (June 2025)
-* **Tech Stack:** Machine Learning, Deep Learning (CNNs), Image Processing (OpenCV, TensorFlow, PyTorch)
-* **Description:** Built an AI-powered system utilizing Convolutional Neural Networks (CNNs) to detect and classify agricultural pests from crop images captured via drones or sensors.
-* **Impact:** Automated manual monitoring to enable early pest detection, optimize pesticide usage, improve yield, and promote sustainable precision farming with real-time insights.
-
----
-
-### 💼 Business & Functional Skills
-* Business Process Analysis & Requirement Gathering Documentation
-* Understanding of Finance, Sales, and Supply Chain Processes
-* Data Validation & Reconciliation
-* Strong Analytical & Problem-Solving Skills
-
----
-
-### 🏆 Certifications
-* 🐍 Certification in Python (Aggregate: 96/100)
-* ☁️ Creating a Virtual Private Cloud (VPC) using AWS
-* 🤖 Introduction to Generative AI with Google Cloud
-
----
-
-### 📫 Connect With Me
-* **Email:** udayahire.sit.it@gmail.com
-* **LinkedIn:** [uday-ahire-v21](https://linkedin.com/in/uday-ahire-v21)
-* **Phone:** +919421548907
+###
